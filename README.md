@@ -1,4 +1,6 @@
-
+<p align="center">
+TEAM ALPHA
+</p>
 <p align="center">
   <img src="https://github.com/JL-ALPHA/JL-Alpha/blob/main/Alphagit.gif?raw=true" alt="Sublime's custom image"/>
 </p>
