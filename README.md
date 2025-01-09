@@ -44,9 +44,13 @@ This repository is my playground where I:
  
 💡 Adopting better workflows for collaboration and project management.
 
-Plum Assessment Results
 
-I have completed the Plum Talent Assessment, a comprehensive evaluation tool that highlights key strengths, cognitive abilities, and workplace preferences. Below is a link to my detailed results, showcasing my capabilities in problem-solving, adaptability, innovation, and leadership traits.
+##Getting to know me
+
+###Plum Assessment Results
+
+* I have completed the Plum Talent Assessment, a comprehensive evaluation tool that highlights key strengths, cognitive abilities, and workplace preferences. 
+* Below is a link to my detailed results, showcasing my capabilities in problem-solving, adaptability, innovation, and leadership traits.
 
 [View My Plum Assessment Results](https://secure.plum.io/p/-OovMGXbvUy-yNZVcyxpUQ)
 
