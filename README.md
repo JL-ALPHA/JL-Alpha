@@ -51,8 +51,8 @@ This repository is my playground where I:
 
 ### Plum Assessment Results
 
-<p I have completed the Plum Talent Assessment, a comprehensive evaluation tool that highlights key strengths, cognitive abilities, and workplace preferences. </p>
-<p Below is a link to my detailed results, showcasing my capabilities in problem-solving, adaptability, innovation, and leadership traits. </p>
+I have completed the Plum Talent Assessment, a comprehensive evaluation tool that highlights key strengths, cognitive abilities, and workplace preferences.
+Below is a link to my detailed results, showcasing my capabilities in problem-solving, adaptability, innovation, and leadership traits.
 
 [View My Plum Assessment Results](https://secure.plum.io/p/-OovMGXbvUy-yNZVcyxpUQ)
 
