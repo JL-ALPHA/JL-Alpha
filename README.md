@@ -48,6 +48,15 @@ This repository is my playground where I:
 
 
 ## 👨‍💻 Getting to know me
+[<img src="cybersecurity-breach-case-studies.png">](https://www.credly.com/badges/f2869125-d4dc-4a3b-b840-1287c9c09594/public_url)
+[<img src="cybersecurity-roles-processes-operating-system-security.png">]([https://www.credly.com/badges/140090aa-2345-4f11-aa5d-b8e42857abba/public_url)
+[<img src="cybersecurity-compliance-framework-system-administration.png">](https://www.credly.com/badges/50734a50-a229-4fe7-b55c-62909745b655/public_url)
+[<img src="cybersecurity-breach-case-studies.png">](https://www.credly.com/badges/f2869125-d4dc-4a3b-b840-1287c9c09594/public_url)
+[<img src="cybersecurity-breach-case-studies.png">](https://www.credly.com/badges/f2869125-d4dc-4a3b-b840-1287c9c09594/public_url)
+[<img src="cybersecurity-breach-case-studies.png">](https://www.credly.com/badges/f2869125-d4dc-4a3b-b840-1287c9c09594/public_url)
+[<img src="cybersecurity-breach-case-studies.png">](https://www.credly.com/badges/f2869125-d4dc-4a3b-b840-1287c9c09594/public_url)
+
+
 
 ### Plum Assessment Results
 
