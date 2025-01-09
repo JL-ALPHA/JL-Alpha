@@ -17,11 +17,13 @@
  
 ## 👨‍💻 About Me
  
-### 🔍 Role: AI Data Analyst focused on data annotation, labeling, and analysis.
+### 🔍 Role: 
+AI Data Analyst focused on data annotation, labeling, and analysis.
  
-### 🎯 Current Focus: Transitioning into a specialized AI career by diving into new programming languages and tackling innovative projects.
+### 🎯 Current Focus: 
+Transitioning into a specialized AI career by diving into new programming languages and tackling innovative projects.
  
-### 🌟 Passion: Creating impactful solutions with AI, continuous learning, and collaborating with a forward-thinking team.
+🌟 Passion: Creating impactful solutions with AI, continuous learning, and collaborating with a forward-thinking team.
  
  
 ### 🛠️ What I Do Here
