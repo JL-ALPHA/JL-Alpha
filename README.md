@@ -91,6 +91,13 @@ Take a look at all the courses I’ve completed on DataCamp.
 * [AI Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/1d58942e742be60e4d803550cbea453233a120e0)
 * [ChatGPT Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/db43cf4a5d84730936907f26d9c9b1d70eda5645)
 
+### MS-900 Microsoft 365 Fundamentals
+* [What is Microsoft 365?](https://learn.microsoft.com/api/achievements/share/en-us/JermaineLucas-6717/3RYLXYPH?sharingId=A33F1A7D2FAD931F)
+* [Describe productivity solutions of Microsoft 365](https://learn.microsoft.com/api/achievements/share/en-us/JermaineLucas-6717/P5SZSET4?sharingId=A33F1A7D2FAD931F)
+* [Describe collaboration solutions of Microsoft 365](https://learn.microsoft.com/api/achievements/share/en-us/JermaineLucas-6717/QTT4DF5E?sharingId=A33F1A7D2FAD931F)
+* [Describe endpoint modernization, management concepts, and deployment options in Microsoft 365](https://learn.microsoft.com/api/achievements/share/en-us/JermaineLucas-6717/N22Y4VLF?sharingId=A33F1A7D2FAD931F)
+* [Describe analytics capabilities of Microsoft 365](https://learn.microsoft.com/api/achievements/share/en-us/JermaineLucas-6717/WZZXBGMN?sharingId=A33F1A7D2FAD931F)
+
 ### Plum Assessment Results
 
 I have completed the Plum Talent Assessment, a comprehensive evaluation tool that highlights key strengths, cognitive abilities, and workplace preferences.
