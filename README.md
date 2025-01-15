@@ -56,6 +56,11 @@ This repository is my playground where I:
 [<img src="cyber-threat-intelligence.png">](https://www.credly.com/badges/2ba13a62-a268-4959-8b75-618cdc7ad7d3)
 [<img src="introduction-to-cybersecurity-tools-cyber-attacks.png">](https://www.credly.com/badges/78e60a69-7574-4dd7-b431-58f0e3719fa7)
 
+### CYBER NATIONS FOUNDATION
+[Micro-certification: AI Analyst - Introduction to AI](https://certificate.bcdiploma.com/check/4459833E06D51FC0357FE1970213102D9E43CB87E37E0D2D1636A0AC052D247CY1hNdnppWHppaGVRS203NVBQa3N3STlXcW15eGtPM3pPMjg0R1BLay82UkRvbmxt) (Mar 2024 – Jul 2024)
+### THE G. RAYMOND CHANG SCHOOL OF CONTINUING EDUCATION, TORONTO METROPOLITAN UNIVERSITY
+[Micro-certification: AI for Data Analysis](https://curvcred-award.continuing.torontomu.ca/check/C515B06D94E5AAF7B29DF3F9589FC16CE36D0028CF853AB61FFF4A1AE61928E0Tms1SC9IVEJuNGoxMUVMQkdmWGphWnZyMlZ3TDFPZ2RtN2FETnZPaTJRMDZVRCtz) (Jul 2024)
+
 
 
 ### Plum Assessment Results
