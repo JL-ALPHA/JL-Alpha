@@ -59,7 +59,7 @@ This repository is my playground where I:
 ### CYBER NATIONS FOUNDATION
 [Micro-certification: AI Analyst - Introduction to AI](https://certificate.bcdiploma.com/check/4459833E06D51FC0357FE1970213102D9E43CB87E37E0D2D1636A0AC052D247CY1hNdnppWHppaGVRS203NVBQa3N3STlXcW15eGtPM3pPMjg0R1BLay82UkRvbmxt) (July 2024)
 ### THE G. RAYMOND CHANG SCHOOL OF CONTINUING EDUCATION, TORONTO METROPOLITAN UNIVERSITY
-[Micro-certification: AI for Data Analysis](https://curvcred-award.continuing.torontomu.ca/check/C515B06D94E5AAF7B29DF3F9589FC16CE36D0028CF853AB61FFF4A1AE61928E0Tms1SC9IVEJuNGoxMUVMQkdmWGphWnZyMlZ3TDFPZ2RtN2FETnZPaTJRMDZVRCtz) (Jul 2024)
+[Micro-certification: AI for Data Analysis](https://curvcred-award.continuing.torontomu.ca/check/C515B06D94E5AAF7B29DF3F9589FC16CE36D0028CF853AB61FFF4A1AE61928E0Tms1SC9IVEJuNGoxMUVMQkdmWGphWnZyMlZ3TDFPZ2RtN2FETnZPaTJRMDZVRCtz) (July 2024)
 ### DataCamp
 Take a look at all the courses I’ve completed on DataCamp.
 #### Courses
