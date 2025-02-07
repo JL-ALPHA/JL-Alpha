@@ -49,7 +49,7 @@ This repository is my playground where I:
 
 ## 👨‍💻 Getting to know me
 ### IBM Data Science Professional 
-[<img src=""](https://www.credly.com/badges/65fdc07b-35df-4cdd-b708-62968de905bf/public_url)
+[<img src="data-science-orientation.png">](https://www.credly.com/badges/65fdc07b-35df-4cdd-b708-62968de905bf/public_url)
 
 ### IBM Cybersecurity Breach Case Studies
 [<img src="cybersecurity-breach-case-studies.png">](https://www.credly.com/badges/f2869125-d4dc-4a3b-b840-1287c9c09594/public_url)
