@@ -96,12 +96,19 @@ Take a look at all the courses I’ve completed on DataCamp.
 * [ChatGPT Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/db43cf4a5d84730936907f26d9c9b1d70eda5645)
 
 ### 365 Learning Path
+#### Tropies
+* [GitHub Foundations Part 1 of 2](https://learn.microsoft.com/api/achievements/share/en-us/JermaineLucas-6717/A4VNBXQ7?sharingId=A33F1A7D2FAD931F)
 * [MS-900 Microsoft 365 Fundamentals: Describe Microsoft 365 apps and services](https://learn.microsoft.com/api/achievements/share/en-us/JermaineLucas-6717/VDDE9F5M?sharingId=A33F1A7D2FAD931F)
+#### Badges
 * [Configure code scanning on GitHub](https://learn.microsoft.com/api/achievements/share/en-us/JermaineLucas-6717/APFFFYY7?sharingId=A33F1A7D2FAD931F)
+* [Code with GitHub Codespaces](https://learn.microsoft.com/api/achievements/share/en-us/JermaineLucas-6717/8ZNHG68W?sharingId=A33F1A7D2FAD931F)
+* [Communicate effectively on GitHub using Markdown](https://learn.microsoft.com/api/achievements/share/en-us/JermaineLucas-6717/PLD26MJ4?sharingId=A33F1A7D2FAD931F)
 * [Introduction to GitHub's products](https://learn.microsoft.com/api/achievements/share/en-us/JermaineLucas-6717/87CK8RUW?sharingId=A33F1A7D2FAD931F)
 * [Introduction to GitHub](https://learn.microsoft.com/api/achievements/share/en-us/JermaineLucas-6717/87L2JBKW?sharingId=A33F1A7D2FAD931F)
 * [Introduction to GitHub administration](https://learn.microsoft.com/api/achievements/share/en-us/JermaineLucas-6717/UYTATXL3?sharingId=A33F1A7D2FAD931F)
 * [Introduction to Git](https://learn.microsoft.com/api/achievements/share/en-us/JermaineLucas-6717/ZKWD9T62?sharingId=A33F1A7D2FAD931F)
+* [Introduction to GitHub Copilot](https://learn.microsoft.com/api/achievements/share/en-us/JermaineLucas-6717/DC4ZVNPJ?sharingId=A33F1A7D2FAD931F)
+* [Manage your work with GitHub Projects](https://learn.microsoft.com/api/achievements/share/en-us/JermaineLucas-6717/9YH29EDU?sharingId=A33F1A7D2FAD931F)
 * [Describe analytics capabilities of Microsoft 365](https://learn.microsoft.com/api/achievements/share/en-us/JermaineLucas-6717/WZZXBGMN?sharingId=A33F1A7D2FAD931F)
 * [Describe productivity solutions of Microsoft 365](https://learn.microsoft.com/api/achievements/share/en-us/JermaineLucas-6717/P5SZSET4?sharingId=A33F1A7D2FAD931F)
 * [Describe collaboration solutions of Microsoft 365](https://learn.microsoft.com/api/achievements/share/en-us/JermaineLucas-6717/QTT4DF5E?sharingId=A33F1A7D2FAD931F)
