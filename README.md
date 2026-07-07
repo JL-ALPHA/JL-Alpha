@@ -1,4 +1,4 @@
-
+<img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio,git,github,dart,python,cpp,vscode" />
 
 <p align="center">
   <img src="https://github.com/JL-ALPHA/JL-Alpha/blob/main/Alphagit.gif?raw=true" alt="Sublime's custom image"/>
@@ -7,47 +7,107 @@
 
 <p align="center"> 👋 Greetings </p>
 
-<p align="center"> Welcome to my GitHub Playground </p>
 
+### Hello! I'm Lucas, and this is my space to build, experiment, and grow as an AI enthusiast and developer. 🚀 
+ 
+ ### Software Developer • AI Engineer • Data Analytics • Product Builder
 
+I enjoy building software that solves real-world problems.
 
+My work spans **mobile application development**, **AI-assisted software engineering**, **data analytics**, and **automation**. I enjoy taking ideas from concept through architecture, implementation, and continuous improvement while designing systems that are scalable, maintainable, and user-focused.
 
- 
-<p Hello! I'm Lucas, and this is my space to build, experiment, and grow as an AI enthusiast and developer. 🚀 </p>
- 
-## 👨‍💻 About Me
- 
-### 🔍 Role: 
-AI Data Analyst focused on data annotation, labeling, and analysis.
- 
-### 🎯 Current Focus: 
-Transitioning into a specialized AI career by diving into new programming languages and tackling innovative projects.
- 
-### 🌟 Passion: 
-Creating impactful solutions with AI, continuous learning, and collaborating with a forward-thinking team.
- 
- 
-### 🛠️ What I Do Here
-This repository is my playground where I:
- 
-* 🤖 Experiment with AI tools and models.
- 
-* 🧹 Work on data cleaning, analysis, and automation.
- 
-* 🔧 Build projects like bots, interactive applications, and innovative solutions.
- 
-* 🗂️ Share team efforts, collaborate, and merge ideas into cohesive projects.
- 
-* 🌱 Learning & Growth
- 
-* 📖 Exploring cutting-edge AI tools and trends.
- 
-* 🖥️ Building my expertise in programming languages like Python and C++.
- 
-* 💡 Adopting better workflows for collaboration and project management.
+---
 
+# 🚀 Current Projects
 
-## 👨‍💻 Getting to know me
+### 🎨 Colorful Studio
+
+A Flutter-based educational platform designed to evolve beyond a traditional coloring application into a modular learning ecosystem.
+
+Current focus includes:
+
+* Registry-driven architecture
+* Modular activity framework
+* Educational content management
+* Scalable Flutter architecture
+* Marketplace-ready foundation
+
+---
+
+### 📊 Project DataScope
+
+Creator of **DataScope**, an internal analytics initiative originally designed as a prototype and later expanded through collaborative development while leading the Analytics Subgroup.
+
+The project focuses on:
+
+* Data quality
+* Dataset auditing
+* Workflow automation
+* Data profiling
+* Standardized analytics processes
+
+---
+
+# 💡 Areas of Interest
+
+* Artificial Intelligence
+* Mobile Application Development
+* Flutter
+* Android Development
+* Software Architecture
+* Data Engineering
+* Automation
+* Human-Centered Design
+* AI Governance & Responsible AI
+
+---
+
+# 🛠 Technical Stack
+
+### Languages
+
+* Dart
+* Python
+* SQL
+* Java
+* C++
+
+### Frameworks & Technologies
+
+* Flutter
+* Jetpack Compose
+* Firebase
+* Git
+* GitHub
+* Android Studio
+* VS Code
+
+### AI & Data
+
+* AI-assisted Software Development
+* Prompt Engineering
+* Data Analytics
+* Machine Learning Fundamentals
+* ETL / ELT
+* Data Quality
+* Responsible AI
+
+---
+
+# 📚 Continuous Learning
+
+Technology evolves quickly, and so do I.
+
+My learning journey includes professional development in:
+
+* Artificial Intelligence
+* Mobile Development
+* Cybersecurity
+* Data Analytics
+* Software Engineering
+* Cloud & Collaboration Technologies
+
+Professional learning platforms include IBM, Coursera, DataCamp, Toronto Metropolitan University, Microsoft Learn, and GitHub Learning Lab.
 ### IBM Data Science Professional 
 [<img src="data-science-orientation.png">](https://www.credly.com/badges/65fdc07b-35df-4cdd-b708-62968de905bf/public_url)
 
@@ -115,16 +175,41 @@ Take a look at all the courses I’ve completed on DataCamp.
 * [Describe endpoint modernization, management concepts, and deployment options in Microsoft 365](https://learn.microsoft.com/api/achievements/share/en-us/JermaineLucas-6717/N22Y4VLF?sharingId=A33F1A7D2FAD931F)
 * [What is Microsoft 365?](https://learn.microsoft.com/api/achievements/share/en-us/JermaineLucas-6717/3RYLXYPH?sharingId=A33F1A7D2FAD931F)
 
+---
+
+# 🌱 Development Philosophy
+
+I believe software should be:
+
+* Built with purpose.
+* Designed for long-term maintainability.
+* Backed by thoughtful architecture.
+* Continuously improved through testing and iteration.
+* Enhanced—not replaced—by AI.
+
 ### Plum Assessment Results
 
-I have completed the Plum Talent Assessment, a comprehensive evaluation tool that highlights key strengths, cognitive abilities, and workplace preferences.
 Below is a link to my detailed results, showcasing my capabilities in problem-solving, adaptability, innovation, and leadership traits.
 
 [View My Plum Assessment Results](https://secure.plum.io/p/-OovMGXbvUy-yNZVcyxpUQ)
 
 These insights reflect my commitment to understanding and leveraging my strengths for professional growth and aligning with roles that match my skills and interests
 
- 
-🤝 Let's Connect!
- 
-If you're here, you're probably someone who loves to build and explore new ideas—just like me! Feel free to explore my repositories, contribute, or reach out if you'd like to collaborate.
+AI is part of my development workflow, helping accelerate research, debugging, documentation, and design decisions while keeping human reasoning at the center of the engineering process.
+
+---
+
+# 🤝 Collaboration
+
+I'm always interested in learning from other developers and collaborating on projects involving:
+
+* AI
+* Mobile applications
+* Educational technology
+* Emergency technology
+* Data analytics
+* Automation
+* Software architecture
+
+Thanks for visiting my GitHub profile.
+
