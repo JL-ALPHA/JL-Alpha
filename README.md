@@ -31,6 +31,10 @@ Current focus includes:
 * Educational content management
 * Scalable Flutter architecture
 * Marketplace-ready foundation
+**Tech Stack:** Dart, C++, CMake, Swift, Kotlin  
+**Status:** Active Development  
+
+[🔗 View Repository](https://github.com/JL-ALPHA/ColorfulRootsStudio-DEMO)
 
 ---
 
@@ -45,6 +49,11 @@ The project focuses on:
 * Workflow automation
 * Data profiling
 * Standardized analytics processes
+**Tech Stack:** Python  
+**Status:** Stable  
+⭐ 2 Stars
+
+[🔗 View Repository](https://github.com/JL-ALPHA/dataScope-DEMO)
 
 ---
 
