@@ -8,7 +8,7 @@
 <p align="center"> 👋 Greetings </p>
 
 
-### Hello! I'm Lucas, and this is my space to build, experiment, and grow as an AI enthusiast and developer. 🚀 
+### I'm Lucas, and this is my space to build, experiment, and grow as an AI enthusiast and developer. 🚀 
  
  ### Software Developer • AI Engineer • Data Analytics • Product Builder
 
@@ -125,7 +125,6 @@ Professional learning platforms include IBM, Coursera, DataCamp, Toronto Metropo
 ### THE G. RAYMOND CHANG SCHOOL OF CONTINUING EDUCATION, TORONTO METROPOLITAN UNIVERSITY
 [Micro-certification: AI for Data Analysis](https://curvcred-award.continuing.torontomu.ca/check/C515B06D94E5AAF7B29DF3F9589FC16CE36D0028CF853AB61FFF4A1AE61928E0Tms1SC9IVEJuNGoxMUVMQkdmWGphWnZyMlZ3TDFPZ2RtN2FETnZPaTJRMDZVRCtz) (July 2024)
 ### DataCamp
-Take a look at all the courses I’ve completed on DataCamp.
 #### Courses
 * [Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/7bbdefb41d7958a9796ba1e5a912249f507d8ed2)
 * [Introduction to SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/2569211b45fa2fe5d9c90df244ad98f0a44bbc20)
@@ -185,7 +184,6 @@ I believe software should be:
 * Designed for long-term maintainability.
 * Backed by thoughtful architecture.
 * Continuously improved through testing and iteration.
-* Enhanced—not replaced—by AI.
 
 ### Plum Assessment Results
 
