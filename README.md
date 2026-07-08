@@ -1,20 +1,20 @@
-<img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio,git,github,dart,python,cpp,vscode" />
+<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio,git,github,dart,python,cpp,vscode" /> </p>
 
 <p align="center">
   <img src="https://github.com/JL-ALPHA/JL-Alpha/blob/main/Alphagit.gif?raw=true" alt="Sublime's custom image"/>
 </p>
 
 
-<p align="center"> 👋 Greetings </p>
+### <p align="center"> 👋 Greetings </p>
 
 
-### I'm Lucas, and this is my space to build, experiment, and grow as an AI enthusiast and developer. 🚀 
+<p align="center"> I'm Lucas, and this is my space to build, experiment, and grow as an AI enthusiast and developer.
  
- ### Software Developer • AI Engineer • Data Analytics • Product Builder
-
 I enjoy building software that solves real-world problems.
 
-My work spans **mobile application development**, **AI-assisted software engineering**, **data analytics**, and **automation**. I enjoy taking ideas from concept through architecture, implementation, and continuous improvement while designing systems that are scalable, maintainable, and user-focused.
+My work spans **mobile application development**, **AI-assisted software engineering**, **data analytics**, and **automation**. I enjoy taking ideas from concept through architecture, implementation, and continuous improvement while designing systems that are scalable, maintainable, and user-focused. </p>
+
+ ### Software Developer • AI Engineer • Data Analytics • Product Builder
 
 ---
 
