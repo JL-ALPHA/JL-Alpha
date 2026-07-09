@@ -34,7 +34,7 @@ Current focus includes:
 <p> Tech Stack: Dart, C++, CMake, Swift, Kotlin  
 Status: Active Development  </p>
 
-[🔗 View Repository](https://github.com/JL-ALPHA/ColorfulRootsStudio-DEMO)
+[🔗 View Repository](https://github.com/JL-ALPHA/ColorfulRootsStudio-DEMO) | [Live Demo](https://screenrec.com/share/ukUN34Q0iD)
 
 ---
 
