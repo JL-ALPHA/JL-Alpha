@@ -8,7 +8,7 @@
 ### <p align="center"> 👋 Greetings </p>
 
 
-<p align="center"> I'm Lucas, and this is my space to build, experiment, and grow as an AI enthusiast and developer.
+<p align="center"> I'm LUCΛS, and this is my space to build, experiment, and grow as an AI enthusiast and developer.
  
 I enjoy building software that solves real-world problems.
 
