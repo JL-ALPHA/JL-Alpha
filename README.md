@@ -123,6 +123,9 @@ Professional learning platforms include IBM, Coursera, DataCamp, Toronto Metropo
 ### IBM Data Science Professional 
 [<img src="data-science-orientation.png">](https://www.credly.com/badges/65fdc07b-35df-4cdd-b708-62968de905bf/public_url)
 
+### IBM Cybersecurity Analyst Certificate
+[<img src="ibm-cybersecurity-analyst-certificate.png">](https://www.credly.com/badges/f0c51a49-7c28-44d9-b174-c6d90167837e/public_url)
+
 ### IBM Cybersecurity Breach Case Studies
 [<img src="cybersecurity-breach-case-studies.png">](https://www.credly.com/badges/f2869125-d4dc-4a3b-b840-1287c9c09594/public_url)
 [<img src="cybersecurity-roles-processes-operating-system-security.png">](https://www.credly.com/badges/140090aa-2345-4f11-aa5d-b8e42857abba)
