@@ -117,6 +117,8 @@ My learning journey includes professional development in:
 * Cloud & Collaboration Technologies
 
 Professional learning platforms include IBM, Coursera, DataCamp, Toronto Metropolitan University, Microsoft Learn, and GitHub Learning Lab.
+### [Artificial Intelligence Essentials V2](https://www.credly.com/badges/7de0502c-d029-483a-8df3-ad46ec983af3/public_url)
+
 ### IBM Data Science Professional 
 [<img src="data-science-orientation.png">](https://www.credly.com/badges/65fdc07b-35df-4cdd-b708-62968de905bf/public_url)
 
